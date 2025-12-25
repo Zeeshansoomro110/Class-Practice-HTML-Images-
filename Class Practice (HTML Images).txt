@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>HTML Image Practice</title>
+</head>
+<body>
+
+<h1>HTML Image Practice</h1>
+
+<!-- 1. Simple Image -->
+<img src="https://via.placeholder.com/150" alt="Placeholder Image">
+<br><br>
+
+<!-- 2. Image with size specified -->
+<img src="https://via.placeholder.com/200" alt="Big Placeholder" width="200" height="200">
+<br><br>
+
+<!-- 3. Image as Link -->
+<a href="https://www.google.com" target="_blank">
+    <img src="https://via.placeholder.com/100" alt="Click Image to Go to Google">
+</a>
+<br><br>
+
+<!-- 4. Local Image Example -->
+<!-- Agar tumhara image folder me ho -->
+<img src="myphoto.jpg" alt="My Photo Example">
+<br><br>
+
+<!-- 5. Image with title -->
+<img src="https://via.placeholder.com/120" alt="Example" title="This is an image">
+
+</body>
+</html>
